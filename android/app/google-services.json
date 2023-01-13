@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "940829156984",
+    "firebase_url": "https://studentstudycommunityapp-6b8cc-default-rtdb.firebaseio.com",
+    "project_id": "studentstudycommunityapp-6b8cc",
+    "storage_bucket": "studentstudycommunityapp-6b8cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940829156984:android:71fa346d15c720af202f8d",
+        "android_client_info": {
+          "package_name": "com.noone.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940829156984-qjg9ktcfviorheb8oq4a5of76ljd5jkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQHQglFkp-3dO_WWEto1ftsk-wUSQckTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940829156984-qjg9ktcfviorheb8oq4a5of76ljd5jkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
